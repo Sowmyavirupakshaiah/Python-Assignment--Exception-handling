@@ -1,0 +1,8 @@
+
+1. To check the files is exist or not in drive otherwise throw exception.
+
+
+2. Probleme statment : Find number that divide by zero otherwise throw exception.
+
+
+3. Program to print the reciprocal of even numbers.
